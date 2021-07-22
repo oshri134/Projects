@@ -1,0 +1,11 @@
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/bin/Debug/netcoreapp3.0/FinalProject
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/bin/Debug/netcoreapp3.0/FinalProject.deps.json
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/bin/Debug/netcoreapp3.0/FinalProject.runtimeconfig.json
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/bin/Debug/netcoreapp3.0/FinalProject.runtimeconfig.dev.json
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/bin/Debug/netcoreapp3.0/FinalProject.dll
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/bin/Debug/netcoreapp3.0/FinalProject.pdb
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/obj/Debug/netcoreapp3.0/FinalProject.csprojAssemblyReference.cache
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/obj/Debug/netcoreapp3.0/FinalProject.AssemblyInfoInputs.cache
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/obj/Debug/netcoreapp3.0/FinalProject.AssemblyInfo.cs
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/obj/Debug/netcoreapp3.0/FinalProject.dll
+/Users/ashershekrui/Library/Mobile Documents/com~apple~CloudDocs/Full stack/ts/FinalProject/obj/Debug/netcoreapp3.0/FinalProject.pdb
