@@ -1,0 +1,36 @@
+body {
+    background-image: url("../Home/1.jpg");
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+   
+ }
+
+ img{
+
+  size: 100px;
+ }
+
+ @font-face {
+    font-family: myFirstFont;
+    src: url("../Home/Blue Eyes - Personal Use.otf");
+    font-weight: bold;
+  }
+
+  div{
+    
+font-family: myFirstFont;
+
+font-size: 100px;
+
+
+  }
+img{
+
+  width: 200px;
+    height: 200px;
+}
