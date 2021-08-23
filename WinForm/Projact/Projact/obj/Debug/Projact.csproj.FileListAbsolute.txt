@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\bin\Debug\Projact.exe.config
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\bin\Debug\Projact.exe
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\bin\Debug\Projact.pdb
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\obj\Debug\Projact.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\obj\Debug\Projact.Form1.resources
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\obj\Debug\Projact.Properties.Resources.resources
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\obj\Debug\Projact.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\obj\Debug\Projact.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\obj\Debug\Projact.exe
+C:\Users\User\Desktop\HTML-CSS-master\windowsFrom\Projact\Projact\obj\Debug\Projact.pdb
