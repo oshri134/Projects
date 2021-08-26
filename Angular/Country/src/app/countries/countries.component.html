@@ -1,0 +1,28 @@
+<div class="country-fillters">
+  <input
+    type="text"
+    placeholder="screach for a country"
+    [(ngModel)]="sreachFilet"
+  />
+</div>
+
+<table>
+  <tr>
+    <th>Flag</th>
+    <th>Propulation</th>
+    <th>Native Name</th>
+    <th>Name</th>
+  </tr>
+
+  <tr *ngFor="let item of countries">
+    <td><img [src]="item.flag" /></td>
+    <td>{{ item.population }}</td>
+    <td>{{ item.nativeName }}</td>
+    <td>{{ item.name }}</td>
+  </tr>
+</table>
+
+<!-- <div>
+  <div *ngFor="let item of countries">{{ item.name }}</div>
+</div>
+<router-outlet></router-outlet> -->
