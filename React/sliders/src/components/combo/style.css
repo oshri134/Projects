@@ -1,0 +1,33 @@
+.combo_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding: 3vh;
+    margin-top: 3vh;
+   
+}
+.button{
+}
+
+._3LDgJ {
+    margin-left: 34px;
+
+    width: 119% !important;
+}
+.button{
+    padding: 1rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+._3tcyg {
+    position: relative;
+    width: 200px;
+    height: 40px;
+    margin-left: 47px;
+}
+.com_ch{
+    display: flex;
+}
